@@ -1,8 +1,7 @@
-# Handwritten-Character-Recognition
-# Devanagari Character Recognition – ‘Sampratilipi’ 
-Algorithm incorporating image processing, chain coding, and Density-based  clustering techniques using Java Programming to recognize handwritten devanagari characters.
 
-Project Name: Sampratilipi - Handwritten Devnagari Character Recognition
+
+# Project Name: Sampratilipi - Handwritten Devnagari Character Recognition
+Algorithm incorporating image processing, chain coding, and Density-based  clustering techniques using Java Programming to recognize handwritten devanagari characters.
 
 Sampratilipi is a versatile character recognition project tailored for handwritten Devnagari script, accommodating various styles and fonts. Devnagari is the national language of India and generally spoken by 600 million people in India, it serves as a vital tool for offices, banks, schools, and organizations engaged in digital document processing.
 
